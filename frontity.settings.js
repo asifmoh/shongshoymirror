@@ -5,7 +5,7 @@ const settings =
   "name": "shongshoy",
   "state": {
     "frontity": {
-      "url": "https://shongshoy.live",
+      "url": "https://shongshoy.com",
       "title": "সংশয় - চিন্তার মুক্তির আন্দোলন",
       "description": "জ্ঞান যেখানে সীমাবদ্ধ, যুক্তি যেখানে আড়ষ্ট, মুক্তি সেখানে অসম্ভব"
     }

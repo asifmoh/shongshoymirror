@@ -1,0 +1,7 @@
+{
+    "name": "Shongshoy",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

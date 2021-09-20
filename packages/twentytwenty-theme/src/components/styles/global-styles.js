@@ -77,7 +77,7 @@ const documentSetup = (colors) => css`
     background: ${colors.bodyBg};
     box-sizing: border-box;
     color: #000;
-    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+    font-family: Kalpurush, "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue",
       Helvetica, sans-serif;
     font-size: 1.8rem;
     letter-spacing: -0.015em;
@@ -138,19 +138,19 @@ const elementBase = (colors) => css`
 
   h1,
   .heading-size-1 {
-    font-size: 3.6rem;
+    font-size: 3rem;
     font-weight: 800;
     line-height: 1.138888889;
   }
 
   h2,
   .heading-size-2 {
-    font-size: 3.2rem;
+    font-size: 2.8rem;
   }
 
   h3,
   .heading-size-3 {
-    font-size: 2.8rem;
+    font-size: 2.6rem;
   }
 
   h4,
@@ -160,12 +160,12 @@ const elementBase = (colors) => css`
 
   h5,
   .heading-size-5 {
-    font-size: 2.1rem;
+    font-size: 2.2rem;
   }
 
   h6,
   .heading-size-6 {
-    font-size: 1.6rem;
+    font-size: 2rem;
     letter-spacing: 0.03125em;
     text-transform: uppercase;
   }
@@ -250,6 +250,8 @@ const elementBase = (colors) => css`
   a:focus {
     text-decoration: none;
   }
+  
+
 `;
 
 const elementBase700 = css`
@@ -274,27 +276,27 @@ const elementBase700 = css`
 
     h1,
     .heading-size-1 {
-      font-size: 6.4rem;
+      font-size: 4.4rem;
     }
 
     h2,
     .heading-size-2 {
-      font-size: 4.8rem;
+      font-size: 3.8rem;
     }
 
     h3,
     .heading-size-3 {
-      font-size: 4rem;
+      font-size: 3.6rem;
     }
 
     h4,
     .heading-size-4 {
-      font-size: 3.2rem;
+      font-size: 3.4rem;
     }
 
     h5,
     .heading-size-5 {
-      font-size: 2.4rem;
+      font-size: 3rem;
     }
 
     h6,
@@ -308,7 +310,7 @@ const elementBase1220 = css`
   @media (min-width: 1220px) {
     h1,
     .heading-size-1 {
-      font-size: 8.4rem;
+      font-size: 6.4rem;
     }
   }
 `;

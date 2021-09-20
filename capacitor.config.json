@@ -1,0 +1,8 @@
+{
+    "appId": "com.shongshoy.www",
+    "appName": "Shongshoy",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }

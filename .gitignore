@@ -21,7 +21,7 @@ lib-cov
 # Dependency directories
 node_modules/
 jspm_packages/
-
+android
 # TypeScript cache
 *.tsbuildinfo
 

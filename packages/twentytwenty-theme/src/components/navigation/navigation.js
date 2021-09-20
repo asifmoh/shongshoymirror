@@ -14,6 +14,8 @@ const Navigation = ({ state }) => (
           // Check if the link matched the current page url
           const isCurrentPage = state.router.link === link;
           return (
+            
+          
             <MenuItem key={name}>
               {/* If link url is the current page, add `aria-current` for a11y */}
               <MenuLink

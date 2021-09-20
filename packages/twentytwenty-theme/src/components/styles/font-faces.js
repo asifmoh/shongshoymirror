@@ -8,10 +8,12 @@ import InterSemiBoldUS from "../../fonts/inter/Inter-SemiBold-US-ASCII.woff2";
 import InterMediumLatin from "../../fonts/inter/Inter-Medium-LATIN.woff2";
 import InterBoldLatin from "../../fonts/inter/Inter-Bold-LATIN.woff2";
 import InterSemiBoldLatin from "../../fonts/inter/Inter-SemiBold-LATIN.woff2";
+//import InterShobujNalua from "../../fonts/inter/Shobuj.woff2";
+//import InterKalpurush from "../../fonts/inter/kalpurush.woff2";
 
 const fonts = {
   "us-ascii": [InterMediumUS, InterSemiBoldUS, InterBoldUS],
-  latin: [InterMediumLatin, InterSemiBoldLatin, InterBoldLatin],
+  latin: [ InterMediumLatin, InterSemiBoldLatin, InterBoldLatin],
   all: [InterMedium, InterSemiBold, InterBold],
 };
 
